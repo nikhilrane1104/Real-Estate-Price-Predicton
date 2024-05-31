@@ -1,0 +1,40 @@
+MODEL OUTPUTS
+
+Decision Tree:
+Mean: 4.486623986909583
+Std deviation: 1.0377081125811927
+
+Linear regression:
+Mean: 5.037482786117752
+Std deviation: 1.059438240560695
+
+Ridge:
+Mean: 5.034243266232022
+Std deviation: 1.0641318759745162
+
+Lasso:
+Mean: 5.058431774243859
+Std deviation: 1.1203056708460912
+
+Random Forest:
+Mean: 3.3005806890866047
+Std deviation: 0.67789105351697
+
+Gradient Boosting Regression:
+Mean: 3.0806182817149135
+Std deviation: 0.7132943230624507
+
+XGBoost Regression:
+Mean: 3.52317162107462
+Std deviation: 0.7119772561698555
+
+Support Vector Machine regression:
+Mean: 5.614789065866074
+Std deviation: 1.7098857404905796
+
+
+Neural Network Regression (MLP Regressor):
+Mean: 4.002707207948403
+Std deviation: 1.0477108362127803
+
+
